@@ -46,4 +46,8 @@ describe Feedzirra::Parser::AtomEntry do
   it "should parse the id" do
     @entry.id.should == "tag:typepad.com,2003:post-61484736"
   end
+  
+  it "should parse georss simple point" do
+    @entry.point.should == "45.256 -71.92"
+  end
 end

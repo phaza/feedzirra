@@ -18,6 +18,7 @@
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>Nokogiri&#8217;s Slop Feature</title>
 		<link>http://tenderlovemaking.com/2008/12/04/nokogiris-slop-feature/</link>
 		<comments>http://tenderlovemaking.com/2008/12/04/nokogiris-slop-feature/#comments</comments>
@@ -108,6 +109,7 @@ foo.<span class="me1">extend</span><span class="br0">&#40;</span>UpperCaseResult
 			<wfw:commentRss>http://tenderlovemaking.com/2008/12/04/nokogiris-slop-feature/feed/</wfw:commentRss>
 		</item>
 		<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>Cross Compiling Ruby Gems for win32</title>
 		<link>http://tenderlovemaking.com/2008/11/21/cross-compiling-ruby-gems-for-win32/</link>
 		<comments>http://tenderlovemaking.com/2008/11/21/cross-compiling-ruby-gems-for-win32/#comments</comments>
@@ -249,6 +251,7 @@ end </span></div>
 			<wfw:commentRss>http://tenderlovemaking.com/2008/11/21/cross-compiling-ruby-gems-for-win32/feed/</wfw:commentRss>
 		</item>
 		<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>Underpant-Free Excitement</title>
 		<link>http://tenderlovemaking.com/2008/11/18/underpant-free-excitement/</link>
 		<comments>http://tenderlovemaking.com/2008/11/18/underpant-free-excitement/#comments</comments>
@@ -295,6 +298,7 @@ doc.<span class="me1">search</span><span class="br0">&#40;</span>'h3.<span class
 			<wfw:commentRss>http://tenderlovemaking.com/2008/11/18/underpant-free-excitement/feed/</wfw:commentRss>
 		</item>
 		<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>RubyConf Slides</title>
 		<link>http://tenderlovemaking.com/2008/11/11/rubyconf-slides/</link>
 		<comments>http://tenderlovemaking.com/2008/11/11/rubyconf-slides/#comments</comments>
@@ -315,6 +319,7 @@ Enjoy!
 			<wfw:commentRss>http://tenderlovemaking.com/2008/11/11/rubyconf-slides/feed/</wfw:commentRss>
 		</item>
 		<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>Easily Add Growl Notifications to Autotest</title>
 		<link>http://tenderlovemaking.com/2008/11/03/easily-add-growl-notifications-to-autotest/</link>
 		<comments>http://tenderlovemaking.com/2008/11/03/easily-add-growl-notifications-to-autotest/#comments</comments>
@@ -340,6 +345,7 @@ Here is a screencast.  [...]]]></description>
 <enclosure url="http://tenderlovemaking.com/wp-content/uploads/2008/11/meow_autotest.mov" length="6961598" type="video/quick" />
 		</item>
 		<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>Nokogiri Is Released</title>
 		<link>http://tenderlovemaking.com/2008/10/30/nokogiri-is-released/</link>
 		<comments>http://tenderlovemaking.com/2008/10/30/nokogiri-is-released/#comments</comments>
@@ -394,6 +400,7 @@ eohtml</div>
 			<wfw:commentRss>http://tenderlovemaking.com/2008/10/30/nokogiri-is-released/feed/</wfw:commentRss>
 		</item>
 		<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>Mushrooms, Beef Jerky, and Programming</title>
 		<link>http://tenderlovemaking.com/2008/09/08/mushrooms-beef-jerky-and-programming/</link>
 		<comments>http://tenderlovemaking.com/2008/09/08/mushrooms-beef-jerky-and-programming/#comments</comments>
@@ -430,6 +437,7 @@ agent.<span class="me1">get</span><span class="br0">&#40;</span>'http://google.<
 			<wfw:commentRss>http://tenderlovemaking.com/2008/09/08/mushrooms-beef-jerky-and-programming/feed/</wfw:commentRss>
 		</item>
 		<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>Identifying unknown music with Ruby</title>
 		<link>http://tenderlovemaking.com/2008/08/04/identifying-unknown-music-with-ruby/</link>
 		<comments>http://tenderlovemaking.com/2008/08/04/identifying-unknown-music-with-ruby/#comments</comments>
@@ -466,6 +474,7 @@ info = ew.<span class="me1">identify</span><span class="br0">&#40;</span>:file =
 			<wfw:commentRss>http://tenderlovemaking.com/2008/08/04/identifying-unknown-music-with-ruby/feed/</wfw:commentRss>
 		</item>
 		<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>Back Home!</title>
 		<link>http://tenderlovemaking.com/2008/07/08/back-home/</link>
 		<comments>http://tenderlovemaking.com/2008/07/08/back-home/#comments</comments>
@@ -483,6 +492,7 @@ info = ew.<span class="me1">identify</span><span class="br0">&#40;</span>:file =
 			<wfw:commentRss>http://tenderlovemaking.com/2008/07/08/back-home/feed/</wfw:commentRss>
 		</item>
 		<item>
+    <georss:point>45.256 -71.92</georss:point>
 		<title>Meow meow meow meow meow</title>
 		<link>http://tenderlovemaking.com/2008/06/06/meow-meow-meow-meow-meow/</link>
 		<comments>http://tenderlovemaking.com/2008/06/06/meow-meow-meow-meow-meow/#comments</comments>

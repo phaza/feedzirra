@@ -38,4 +38,8 @@ describe Feedzirra::Parser::RSSEntry do
   it "should parse the guid as id" do
     @entry.id.should == "http://tenderlovemaking.com/?p=198"
   end
+  
+  it "should parse georss simple point" do
+    @entry.point.should == "45.256 -71.92"
+  end
 end

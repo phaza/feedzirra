@@ -27,7 +27,8 @@ module Feedzirra
       element :updated
       element :modified, :as => :updated
       elements :category, :as => :categories, :value => :term
-      elements :link, :as => :links, :value => :href
+      elements :link, :as => :links, :value => :href      
+      element 'georss:point', :as => :point
       
       def url
         @url || links.first
