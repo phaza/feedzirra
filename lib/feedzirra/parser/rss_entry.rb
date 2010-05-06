@@ -36,7 +36,7 @@ module Feedzirra
 
       element :guid, :as => :entry_id
       
-      element 'georss:point', :as => :point
+      element :'georss:point', :as => :point
     end
 
   end
